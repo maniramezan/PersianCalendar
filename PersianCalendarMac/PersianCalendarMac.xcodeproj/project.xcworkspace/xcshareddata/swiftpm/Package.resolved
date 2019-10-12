@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Grallistrix",
+        "repositoryURL": "git@github.com:maniramezan/Grallistrix.git",
+        "state": {
+          "branch": "master",
+          "revision": "260e3747570b84318cbcc20ba1d041553669d27b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
